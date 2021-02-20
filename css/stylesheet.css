@@ -16,9 +16,10 @@ p{
 	color:#283747 ;
 }
 h1{
+	display:block;
 	font-size:28px;
 	text-align: center;
-	display:block;
+
 	margin:0px auto;
 	color:#0097db; /*light blue*/
 	}
@@ -94,7 +95,8 @@ a:active {color: #eb121d /*red*/;
 	margin: 0px 20px;
 	padding:10px;
 	border-radius: 50%; }
-.button, button {
+
+button,.button {
 	display:inline-block;
   	border: none;
 	font-family: 'nunito';
