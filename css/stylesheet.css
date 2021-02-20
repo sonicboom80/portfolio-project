@@ -7,26 +7,26 @@ background-color:#FEF5E7 ;
 }
 header{
 	background-color:#F1F2F9;
-	font-size: 16px; 
+	font-size: 16px;
 	line-height: 1.2;
 }
 p{
-	font-family: 'nunito'; 
+	font-family: 'nunito';
 	font-size:16px;
 	color:#283747 ;
 }
-h1{ 
-	font-size:22px;
+h1{
+	font-size:28px;
 	display:block;
 	margin:0px auto;
-	color:#0097db; /*light blue*/ 
-	} 
+	color:#0097db; /*light blue*/
+	}
 a{
 	font-weight: 300;
 	font-family:'nunito';
 	color: #515FF1;
-	} 
-a:visited { 
+	}
+a:visited {
 	color:#808B96 /*grey*/;
 }
 a:hover, a:focus {
@@ -69,9 +69,9 @@ a:active {color: #eb121d /*red*/;
 	text-align:center;
 	flex-direction:column;
 	background-color:#F1F2F9;
-	font-size: 18px; color:#283747; 
+	font-size: 18px; color:#283747;
 	font-weight: 400;
-} 
+}
 .navigation-list_item--active{/*removes underline from current page link*/
 	text-decoration: none;
 }
@@ -170,7 +170,3 @@ a:active {color: #eb121d /*red*/;
   		h2{
     	font-size: 22px;
   		}
-
-
-
- 
