@@ -82,8 +82,10 @@ a:active {color: #eb121d /*red*/;
 }
 .navigation-list li{
 	display:inline-block;
-	margin-left: 15px;
+	margin-left:15px;
 	margin-right:15px;
+	font-size:20px;
+
 }
 
 .profile-image{
